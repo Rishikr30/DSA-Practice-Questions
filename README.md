@@ -1,6 +1,6 @@
 # DSA Learning with C
 
-Welcome to my Data Structures and Algorithms (DSA) learning repository! This repository contains the solutions to various DSA problems that I have solved while learning the concepts from scratch using the C programming language.
+Welcome to my Data Structures and Algorithms (DSA) learning Journey! This repository contains the solutions to various DSA problems that I have solved while learning the concepts from scratch using the C programming language.
 
 ## About
 
@@ -34,7 +34,7 @@ Here are some of the topics covered in this repository:
 To use this repository, simply clone it to your local machine:
 
 ```bash
-git clone https://github.com/Rishikr30/DSA-Learning-with-C.git
+git clone https://github.com/Rishikr30/dsa-with-c.git
 ```
 
 Navigate to the folder of your choice to find the problems and solutions related to that topic. You can compile and run the C programs using any C compiler.
@@ -43,9 +43,6 @@ Navigate to the folder of your choice to find the problems and solutions related
 
 If you have any suggestions, improvements, or additional problems that you would like to contribute, feel free to open an issue or submit a pull request. Your contributions are always welcome!
 
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Acknowledgments
 
@@ -53,4 +50,4 @@ I would like to thank all the resources, tutorials, and books that have helped m
 
 Happy Coding!
 
-Rishikr30
+# Rishi Kumar,
